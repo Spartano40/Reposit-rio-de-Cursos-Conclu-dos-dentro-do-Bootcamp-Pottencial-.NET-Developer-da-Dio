@@ -11,3 +11,10 @@ Este repositório tem como objetivo demostrar meu progresso etapa por etapa no B
  - Introdução à programação e ao pensamento computacional;
  - Introdução ao git e ao git/gitHub;
  - Criando primeiro repositório no GitHub para compartihar meu progresso.
+
+## Conhecendo a plataforma .Net com C# (Inicializado)
+
+
+
+### 
+
