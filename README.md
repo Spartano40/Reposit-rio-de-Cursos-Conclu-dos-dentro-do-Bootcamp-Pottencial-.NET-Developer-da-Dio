@@ -12,7 +12,7 @@ Este repositório tem como objetivo demostrar meu progresso etapa por etapa no B
  - Introdução ao git e ao git/gitHub;
  - Criando primeiro repositório no GitHub para compartihar meu progresso.
 
-## Conhecendo a plataforma .Net com Csharp (Inicializado)
+### CONHECENDO A PLATAFORMA .NET COM CSHARP (Inicializado)
  - Introdução ao .Net;
  - Introdução as IDEs e configuração de ambiente .Net;
  - Sintaxe e tipos de dados em C#;
