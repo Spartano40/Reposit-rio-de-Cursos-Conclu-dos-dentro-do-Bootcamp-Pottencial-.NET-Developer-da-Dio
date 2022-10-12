@@ -16,6 +16,7 @@ Este repositório tem como objetivo demostrar meu progresso etapa por etapa no B
  - Introdução ao .Net;
  - Introdução as IDEs e configuração de ambiente .Net;
  - Sintaxe e tipos de dados em C#;
+ - Tipos de operadores em C#;
 
 
 
